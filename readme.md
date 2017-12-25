@@ -1,3 +1,3 @@
-# nb_template
+# nb_opmap
 
-template repository for jupyter notebook pages.
+opmap repository for jupyter notebook pages.
