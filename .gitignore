@@ -1,2 +1,4 @@
 !*ipynb
 .ipynb_checkpoints
+temp_mov/*
+__pycache__/*
